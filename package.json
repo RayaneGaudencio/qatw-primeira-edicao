@@ -1,0 +1,16 @@
+{
+  "name": "qatw-primeira-edicao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RayaneGaudencio/qatw-primeira-edicao.git",
+  "author": "rayane <rayanegaudencio11@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "pg-promise": "^12.6.2"
+  }
+}
